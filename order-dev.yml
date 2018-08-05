@@ -3,9 +3,5 @@ datasource:
   url: jdbc:mysql://localhost:3306/sell?useUnicode=true&characterEncoding=utf8&autoReconnect=true&useSSL=false
   username: hsx
 env: dev
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
 server:
   port: 8082
