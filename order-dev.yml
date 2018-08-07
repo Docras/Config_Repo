@@ -7,4 +7,4 @@ datasource:
           username: hsx
           password: 123456
 env:
-  dev
+  test
