@@ -2,7 +2,7 @@ spring:
   application:
     name: order
 
-  datasource:
+datasource:
           url: jdbc:mysql://localhost:3306/sell?useUnicode=true&characterEncoding=utf8&autoReconnect=true&useSSL=false
           username: hsx
           password: 123456
