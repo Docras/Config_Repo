@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: order
 
 datasource:
           url: jdbc:mysql://localhost:3306/sell?useUnicode=true&characterEncoding=utf8&useSSL=false
